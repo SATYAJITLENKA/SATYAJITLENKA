@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyajit Lenka</h1>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SATYAJITLENKA.SATYAJITLENKA" />
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **full stack E-commerce website**
