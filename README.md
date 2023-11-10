@@ -1,33 +1,63 @@
+   
 <h1 align="center">Hi 👋, I'm Satyajit Lenka</h1>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SATYAJITLENKA.SATYAJITLENKA" />
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 
-- 🔭 I’m currently working on **full stack E-commerce website**
+- 🔭 **I** bring websites to life with love, handling both the Frontend and Backend to make your online dreams come true.
 
-- 🌱 I’m currently learning **Next.js , Typescript**
+- 🌱 **My passion ** for AI and security fuels my drive to explore innovative solutions and create a safer digital landscape.
 
-- 💬 Ask me about **Coding, Development, Technology,**
+- 👯 I am on a journey of exploration in the vast world of technology, seeking new horizons and opportunities.
+
+- 👨‍💻 My Portfolio & Projects [(Portfolio)](https://satyajitlenka.github.io/Portfolio/)
+
+- 💬 Ask me about **AI, Full-stack, Self-Improvement, Podcasts, Books, Travel & Life-Experiences !**
 
 - 📫 How to reach me **satya09jit@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.satyajitlenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.satyajitlenka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satyajit-lenka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyajit-lenka/" height="30" width="40" /></a>
-<a href="https://medium.com/@satyajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@satyajit" height="30" width="40" /></a>
-</p>
+- ⚡**Fun fact: ** I turn 'boring' work into my adventure – finding joy in every task!
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+    <img width="12"/>
+    <img src="https://www.bing.com/th?id=OIP.xXhbnB60x1WQzlBG9Hi5EQHaFQ&w=162&h=110&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" height="30" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://th.bing.com/th?id=OIP.4MLiXSkY-1i2fgt0gR6aowAAAA&w=212&h=127&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" height="30" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+    <img width="12" />
+    <img src="https://th.bing.com/th?id=OIP.rpiHSO8j5Ng9dzobkcvAkQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" height="30" alt="bootstrap logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+    <img width="12" />
+    <img src="https://th.bing.com/th?id=OIP.7ld8ocZoXSlR_SYlDdm4YQHaLH&w=204&h=306&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" height="30" alt="canva logo"  />
+    <img width="12" />
+</div>
+  
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajitlenka&show_icons=true&locale=en&layout=compact" alt="satyajitlenka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyajitlenka&show_icons=true&locale=en" alt="satyajitlenka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitlenka&" alt="satyajitlenka" /></p>
+</html>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/SATYAJITLENKA" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/github9775.jpg" alt="dev.satyajitlenka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/satyajit-lenka/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.HD3es_M992QIXAEoyKfAxwHaHa?w=187&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="30" width="40" /></a>
+
+</p>
