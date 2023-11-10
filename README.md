@@ -1,22 +1,22 @@
    
-<h1 align="center">Hi 👋, I'm Satyajit Lenka</h1>
+<h1 align="center">Hey 👋, I'm Satyajit Lenka</h1>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SATYAJITLENKA.SATYAJITLENKA" />
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 
 - 🔭 **I** bring websites to life with love, handling both the Frontend and Backend to make your online dreams come true.
 
-- 🌱 **My passion ** for AI and security fuels my drive to explore innovative solutions and create a safer digital landscape.
+- 🌱 **My passion** for AI and security fuels my drive to explore innovative solutions and create a safer digital landscape.
 
-- 👯 I am on a journey of exploration in the vast world of technology, seeking new horizons and opportunities.
+- 👯 I am on a journey of **exploration** in the vast world of **technology**, seeking new horizons and opportunities.
 
-- 👨‍💻 My Portfolio & Projects [(Portfolio)](https://satyajitlenka.github.io/Portfolio/)
+- 👨‍💻 **My Portfolio & Projects** [(Portfolio)](https://satyajitlenka.github.io/Portfolio/)
 
 - 💬 Ask me about **AI, Full-stack, Self-Improvement, Podcasts, Books, Travel & Life-Experiences !**
 
 - 📫 How to reach me **satya09jit@gmail.com**
 
-- ⚡**Fun fact: ** I turn 'boring' work into my adventure – finding joy in every task!
+- ⚡**Fun fact:** I turn 'boring' work into my adventure – finding joy in every task!
 
 
 <h3 align="left">Languages and Tools:</h3>
