@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyajit Lenka</h1>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SATYAJITLENKA.SATYAJITLENKA" />
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 
 - 🔭 I’m currently working on **full stack E-commerce website**
 
